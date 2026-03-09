@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/vccgYqpzxg?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vccgYqpzxg?ext=heatmap&site=cn)
 
 <!--
 **caufilemiloi-netizen/caufilemiloi-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
